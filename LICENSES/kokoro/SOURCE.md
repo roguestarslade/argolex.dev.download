@@ -1,4 +1,10 @@
-# Kokoro-82M licence source
+# Kokoro-82M
 
-- README.md here is the upstream model card (D:\models\kokoro\pytorch\README.md, from https://huggingface.co/hexgrad/Kokoro-82M); its front matter says `license: apache-2.0`.
-- Upstream licence field (https://huggingface.co/api/models/hexgrad/Kokoro-82M, cardData.license): `apache-2.0`, checked 2026-11-03.
+Model family: Kokoro-82M (text to speech).
+Archive paths: `kokoro/**` (`config.json`, `onnx/*.onnx`, `voices/*.bin`).
+
+Upstream page: https://huggingface.co/hexgrad/Kokoro-82M
+
+Licence: Apache License 2.0, as published on the upstream model page.
+The model directory shipped no licence file, so `LICENSE` here is the canonical
+Apache 2.0 text from https://www.apache.org/licenses/LICENSE-2.0.txt
